@@ -1,0 +1,1 @@
+env CONTRACT_NAME=crossword.mitsori1.testnet npm run start

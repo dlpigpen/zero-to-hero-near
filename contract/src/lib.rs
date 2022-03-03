@@ -39,6 +39,10 @@ impl Contract {
             false
         }
    }
+
+   pub fn get_solution(&self) -> String {
+        self.crossword_solution.clone()
+    }
 }
 
 /*
